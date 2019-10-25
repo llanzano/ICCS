@@ -1,6 +1,6 @@
 BSD 2-Clause License
 
-Copyright (c) 2019, llanzano
+Copyright (c) 2019, Luca Lanzano
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -23,3 +23,11 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+In addition to the terms of the license, we ask to acknowledge the use
+of the software in scientific articles by citing:
+
+M. Oneto, L. Scipioni, M.J. Sarmento, I. Cainero, S. Pelicci, L. Furia, P.G. Pelicci,
+G.I. Dellino, P. Bianchini, M. Faretta, E. Gratton, A. Diaspro and L. Lanzanò
+Nanoscale distribution of nuclear sites analyzed by superresolution STED-ICCS 
+bioRxiv, 753228
